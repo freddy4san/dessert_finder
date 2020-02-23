@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "257272079925",
+    "firebase_url": "https://dessert-finder-app-db.firebaseio.com",
+    "project_id": "dessert-finder-app-db",
+    "storage_bucket": "dessert-finder-app-db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257272079925:android:bc34f8c93b1138805ab37c",
+        "android_client_info": {
+          "package_name": "com.free4doom.dessert_finder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257272079925-9phcjb0du40jljedkc5olk47vu2mqktf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7A9mbKPSBLjsNPIPrSqEZG8bElb82m0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257272079925-9phcjb0du40jljedkc5olk47vu2mqktf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
